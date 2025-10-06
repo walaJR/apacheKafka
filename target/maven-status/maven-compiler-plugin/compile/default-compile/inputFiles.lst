@@ -1,0 +1,11 @@
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/KafkaApplication.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/config/KafkaConfig.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/config/KafkaListenerConfig.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/config/SecurityConfig.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/consumer/KafkaConsumer.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/controller/MensajeController.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/dto/MensajeDTO.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/exception/GlobalExceptionHandler.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/producer/KafkaProducer.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/service/MensajeService.java
+/Users/sebastianolaveyanez/Desktop/programacion/works/Backend3/kafka/src/main/java/com/example/mensajeria/kafka/service/MensajeServiceImpl.java
